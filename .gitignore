@@ -1,0 +1,10 @@
+# 파이썬이 자동으로 만드는 임시 파일
+__pycache__/
+*.pyc
+
+# 비밀번호·키를 넣는 Streamlit 설정 파일 (절대 올리면 안 됨)
+.streamlit/secrets.toml
+
+# 가상환경 폴더
+.venv/
+venv/
